@@ -25,7 +25,7 @@ https://www.forbes.com/sites/michaeltnietzel/2023/06/01/stanford-universitys-fre
 
 ## Section Slides
 
-I was a Section Leader for Code in Place 2023 and 2024, leading a weekly section of students over Zoom.  The course lasted 7 weeks and covered many topics in computer science and Python.  In the live sections, we went over new concepts and worked through hands-on exercises.
+I am a Section Leader for Code in Place 2024, leading a weekly section of students over Zoom.  The course lasts 6 weeks and covers many topics in computer science and Python.  In the live sections, we go over new concepts and work through hands-on exercises.
 
 I created the slides in this repository for use in my weekly sections.
 
@@ -36,5 +36,4 @@ I created the slides in this repository for use in my weekly sections.
 - Week 3 - Expressions, Control Flow (Revisited)
 - Week 4 - Graphics, Functions
 - Week 5 - Information Flow, Animation
-- Week 6 - Lists, Dictionaries
-- Week 7 - Final Project
+- Week 6 - Lists, Dictionaries, Final Project
