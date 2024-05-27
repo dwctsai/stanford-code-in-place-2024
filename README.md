@@ -35,6 +35,6 @@ I created the slides in this repository for use in my weekly sections.
 - Week 2 - Art of Problem Solving, Decomposition
 - Week 3 - Introduction to Python, Expressions
 - Week 4 - Python Control Flow
-- Week 5 - Graphics, Functions, Information Flow, Animation
+- Week 5 - Graphics, Functions
 - Week 6 - Lists, Dictionaries
 - Beyond - Final Project
